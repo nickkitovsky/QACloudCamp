@@ -9,10 +9,9 @@
 
 Для запуска выполните команды:
 
-`git clone https://github.com/nickkitovsky/QACloudCamp.git`
-
-`cd QACloudCamp`
-
-`docker build -t qa_cloud .`
-
-`docker run qa_cloud`
+```
+git clone https://github.com/nickkitovsky/QACloudCamp.git
+cd QACloudCamp
+docker build -t qa_cloud .
+docker run qa_cloud
+```
